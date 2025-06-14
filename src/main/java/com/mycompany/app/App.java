@@ -11,7 +11,8 @@ public class App {
 
     public static void main(String[] args) {
         System.out.println(MESSAGE);
-        System.out.println(MESSAGE);
+        System.out.println(MESSAGE1);
+        System.out.println(MESSAGE2);
     }
 
     public String getMessage() {
